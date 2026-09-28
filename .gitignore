@@ -1,0 +1,14 @@
+# Segredos e configs locais (nenhum deveria existir aqui, mas por segurança)
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
